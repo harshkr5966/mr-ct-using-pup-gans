@@ -1,3 +1,0 @@
-abs 
-ecg
-ebd
